@@ -39,6 +39,12 @@ The hardware diagram of the M.2 Dock is shown below:
 
 <a href="resources/m2_dock_diagram_v1_0.pdf" target="_blank"><img alt="Click to download the PDF" src="assets/images/m2-dock-diagram.webp"></a>
 
+## Supported Modules
+
+The following shows the M.2 module that can work with M.2 Dock. More modules are planned and will show up gradually over time.
+
+* [nRF52840 M.2 Module](https://store.makerdiary.com/products/nrf52840-m2-module)
+
 ## Tutorials
 
 We think the best way to learn is by doing. And to help you get started, we have provided a series of tutorials. Find the details below:
@@ -56,18 +62,14 @@ We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/pr
 
 <a href="https://wiki.makerdiary.com/nrf52840-m2-devkit" target="_blank"><button class="md-tile md-tile--primary" style="width:auto;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M12.17 3.83c-.27-.27-.47-.55-.63-.88-.16-.31-.27-.66-.34-1.02-.58.33-1.16.7-1.73 1.13-.58.44-1.14.94-1.69 1.48-.7.7-1.33 1.81-1.78 2.45H3L0 10h3l2-2c-.34.77-1.02 2.98-1 3l1 1c.02.02 2.23-.64 3-1l-2 2v3l3-3v-3c.64-.45 1.75-1.09 2.45-1.78.55-.55 1.05-1.13 1.47-1.7.44-.58.81-1.16 1.14-1.72-.36-.08-.7-.19-1.03-.34a3.39 3.39 0 01-.86-.63zM16 0s-.09.38-.3 1.06c-.2.7-.55 1.58-1.06 2.66-.7-.08-1.27-.33-1.66-.72-.39-.39-.63-.94-.7-1.64C13.36.84 14.23.48 14.92.28 15.62.08 16 0 16 0z"></path></svg> nRF52840 M.2 Developer Kit</button></a>
 
-## Supported Modules
-
-The following shows the M.2 module that can work with M.2 Dock. More modules are planned and will show up gradually over time.
-
-* [nRF52840 M.2 Module](https://store.makerdiary.com/products/nrf52840-m2-module)
-
 ## Design Resource
 
-* [M.2 Dock Hardware Diagram v1.0](resources/m2_dock_diagram_v1_0.pdf)
-* [M.2 Dock Schematic V1.0 for nRF52840 M.2 Module](resources/m2_dock_schematic_v1_0_for_nrf52840.pdf)
-* [M.2 Dock Board File V1.0](resources/m2_dock_board_file_v1_0.pdf)
-* [M.2 Dock 3D Model V1.0](resources/m2_dock_3d_model_v1_0.step)
+|    **Title**                | **Version** |
+| --------------------------- | ----------- |
+| [M.2 Dock Hardware Diagram](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_hw_diagram_v1_0.pdf) | V1.0 |
+| [M.2 Dock Schematic for nRF52840 M.2 Module](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_schematic_v1_0_for_nrf52840.pdf) | V1.0 |
+| [M.2 Dock Board File](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_board_file_v1_0.pdf) | V1.0 |
+[M.2 Dock 3D Model](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_3d_model_v1_0.step) | V1.0 |
 
 ## Create an Issue
 Interested in contributing to this project? Want to report a bug? Feel free to click here:

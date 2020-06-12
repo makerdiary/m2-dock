@@ -17,10 +17,12 @@ See below for available documentation, software, and other resources.
 
 ## Hardware Resource
 
-* [M.2 Dock Hardware Diagram V1.0](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_hw_diagram_v1_0.pdf)
-* [M.2 Dock Schematic V1.0](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_schematic_v1_0.pdf)
-* [M.2 Dock Board File V1.0](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_board_file_v1_0.pdf)
-* [M.2 Dock 3D Model V1.0](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_3d_model_v1_0.step)
+|    **Title**                | **Version** |
+| --------------------------- | ----------- |
+| [M.2 Dock Hardware Diagram](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_hw_diagram_v1_0.pdf) | V1.0 |
+| [M.2 Dock Schematic for nRF52840 M.2 Module](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_schematic_v1_0_for_nrf52840.pdf) | V1.0 |
+| [M.2 Dock Board File](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_board_file_v1_0.pdf) | V1.0 |
+[M.2 Dock 3D Model](https://wiki.makerdiary.com/m2-dock/resources/m2_dock_3d_model_v1_0.step) | V1.0 |
 
 ## Request a Tutorial
 
