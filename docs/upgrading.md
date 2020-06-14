@@ -22,7 +22,7 @@ The current release DAPLink firmware is hosted on [GitHub Release Site](https://
 
 To update the firmware, follow these steps:
 
-1. Enter DFU mode by pressing **DFU/RST** button during power up. The board should mount as a disk drive called **CRP DISABLD**.
+1. Enter DFU mode by pressing **DFU/RST** button during connecting to the **Debugger USB port**. The board should mount as a disk drive called **CRP DISABLD**.
 2. Open **CRP DISABLD**, and remove the file called `firmware.bin`.
 3. Copy the new firmware (`.bin`-format file prepared above) onto **CRP DISABLD**:
 	* On Windows, replace `firmware.bin` with the new firmware.
@@ -31,6 +31,8 @@ To update the firmware, follow these steps:
 		dd if={new_firmware.bin} of={firmware.bin} conv=notrunc
 		```
 4. Unplug your M.2 Dock, and plug it back in. It should now appear as a disk drive called **M.2 Dock**.
+
+![](assets/images/connect-m2-dock-debugger.webp)
 
 ## Verify the update
 
