@@ -38,7 +38,7 @@ The M.2 Dock also comes with 1.3" 240x240 Color IPS TFT LCD, Li-Po Battery Charg
 
 The hardware diagram of the M.2 Dock is shown below:
 
-<a href="resources/m2_dock_diagram_v1_0.pdf" target="_blank"><img alt="Click to download the PDF" src="assets/images/m2-dock-diagram.webp"></a>
+<a href="resources/m2_dock_hw_diagram_v1_0.pdf" target="_blank"><img alt="Click to download the PDF" src="assets/images/m2-dock-diagram.webp"></a>
 
 ## Supported Modules
 
