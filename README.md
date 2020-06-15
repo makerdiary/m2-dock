@@ -28,6 +28,7 @@ The M.2 Dock also comes with 1.3" 240x240 Color IPS TFT LCD, Li-Po Battery Charg
 	- Precision amplifiers with dual gain stage
 	- Cross-platform utility available in Python
 
+* M.2 E-Key connector
 * 1.3" 240x240 Color IPS TFT LCD Display
 * Li-Po Battery Charger with Power Path Management
 * User programmable LED and Button
